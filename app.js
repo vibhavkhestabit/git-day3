@@ -8,4 +8,3 @@ console.log("Vibhav7");
 console.log("Vibhav8");
 console.log("Vibhav9");
 console.log("Vibhav10");
-console.log("Vibhav";
