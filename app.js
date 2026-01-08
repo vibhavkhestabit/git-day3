@@ -11,3 +11,4 @@ console.log("Vibhav10");
 
 
 Making changes to feel how stash works, Stash then pull then stash apply to commit them on top of the latest code.
+NOw I'm modifying it to get a merge conflict
