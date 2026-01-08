@@ -8,3 +8,6 @@ console.log("Vibhav7");
 console.log("Vibhav8");
 console.log("Vibhav9");
 console.log("Vibhav10");
+
+
+Making changes to feel how stash works, Stash then pull then stash apply to commit them on top of the latest code.
